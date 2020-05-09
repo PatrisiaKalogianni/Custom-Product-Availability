@@ -1,0 +1,9 @@
+/* Custom color for products ON BACKORDER */
+.green-backorder-availability-text {
+    color: #5CB85C;
+}
+
+/* Custom color for products availability text value 'Κατόπιν Παραγγελίας' */
+.orange-product-availability-text {
+    color: #f0ad4e;
+}
